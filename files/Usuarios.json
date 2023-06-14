@@ -1,0 +1,18 @@
+[
+	{
+		"nombre": "Lu",
+		"apellido": "Garro",
+		"nombreUsuario": "Luci",
+		"contrasena": "88aaa1b9090eb2bc63727ba048cc3030d0c700ed1655087fbccd14bf465e4aff",
+		"id": 1,
+		"salt": "Y5mkR380OeG5JY1ZLaXNoT6MBiJ5uNLkrXXMqn84i+I6noJsGMq8dP/ZS2im4HcljMi2zJTOLMX7znQHBQESVx/9kM6zV8yb+Yb06xLPQUyF8+JvkFHxIE6DaCCqkruFGwt+eVHzt1tZUw3Y8tEf8BLY/1Cmv/sKTEyvDAMV+X0="
+	},
+	{
+		"nombre": "Lu",
+		"apellido": "Garro",
+		"nombreUsuario": "Luci",
+		"contrasena": "d4eedb32fb7f9093af8785b7af7df11cb9daa3f169d605c14efb4b42e587949d",
+		"id": 2,
+		"salt": "ok6Hl68K8VfFsJVrIeJrDqGiIr2SbqQrV2PgYt2fLf2G67O4AwRSjdptVwHJLz9MJHlLWkX+UlVjnWclmTRsE12kzMgbHj0woE4G1zuDnnqaLahuesih3JOPaFsNGkmApgUkcXkehLECZ9bf2RLsuHiCl8pYpihdCwgAD63CiMQ="
+	}
+]
